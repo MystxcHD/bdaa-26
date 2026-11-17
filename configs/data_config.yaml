@@ -1,0 +1,32 @@
+seed: 42
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  expression_file: data/raw/GSE33000_raw_data.txt
+  platform_annot: data/raw/GPL4372.annot
+  sdrf: data/raw/E-GEOD-33000.sdrf.txt
+
+sdrf:
+  keep_label: Cy5            # sample rows; Cy3 rows are the shared pool
+
+platform:
+  annot_header_lines: 27     # lines to skip before the probe table starts
+  id_col: ID
+  symbol_col: Gene symbol
+  entrez_col: Gene ID
+
+probes:
+  max_missing_frac: 0.10     # drop probes missing in more than 10% of samples (uses no labels)
+  drop_ambiguous: true       # drop probes that map to several genes ("///" in the annotation)
+  drop_loc_genes: false      # team decision: LOC#### placeholder genes are kept for now
+  collapse_method: max_iqr   # keep one probe per gene: the one with the largest IQR
+
+samples:
+  exclude_samples: []        # team decision pending; QC flags are recorded in the metadata, not applied
+
+output:
+  matrix_file: data/processed/expression_samples_x_genes.parquet
+  metadata_file: data/processed/sample_metadata.parquet
+  gene_info_file: data/processed/gene_info.csv
+  probe_decisions_file: reports/probe_decisions.csv
