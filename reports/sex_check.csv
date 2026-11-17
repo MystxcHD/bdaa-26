@@ -1,0 +1,625 @@
+sample_id,gsm,diagnosis,sex,age,female_score,predicted,sex_mismatch
+PFC_624,GSM1424403,Huntington's disease,female,57,3.269694,female,False
+PFC_623,GSM1424402,Huntington's disease,male,38,-6.436961,male,False
+PFC_622,GSM1424401,Huntington's disease,male,28,-6.689357,male,False
+PFC_621,GSM1424400,Huntington's disease,female,57,2.308956,female,False
+PFC_620,GSM1424399,Huntington's disease,male,64,-6.376174,male,False
+PFC_619,GSM1424398,Huntington's disease,female,69,2.9269624,female,False
+PFC_618,GSM1424397,Huntington's disease,female,37,2.3696718,female,False
+PFC_617,GSM1424396,Huntington's disease,male,54,-5.611389,male,False
+PFC_616,GSM1424395,Huntington's disease,female,48,2.1129472,female,False
+PFC_615,GSM1424394,Huntington's disease,female,49,1.95901,female,False
+PFC_614,GSM1424393,Huntington's disease,female,80,2.7659445,female,False
+PFC_613,GSM1424392,Huntington's disease,male,75,-6.090722,male,False
+PFC_612,GSM1424391,Huntington's disease,female,45,2.4109366,female,False
+PFC_611,GSM1424390,Huntington's disease,male,57,-6.239462,male,False
+PFC_610,GSM1424389,Huntington's disease,male,26,-5.918146,male,False
+PFC_609,GSM1424388,Huntington's disease,male,72,-5.8172417,male,False
+PFC_608,GSM1424387,Huntington's disease,male,48,-5.6767316,male,False
+PFC_607,GSM1424386,Huntington's disease,female,37,1.8045858,female,False
+PFC_606,GSM1424385,Huntington's disease,female,37,1.9675646,female,False
+PFC_605,GSM1424384,Huntington's disease,male,72,-6.099285,male,False
+PFC_604,GSM1424383,Huntington's disease,female,52,2.6319368,female,False
+PFC_603,GSM1424382,Huntington's disease,female,46,2.2509649,female,False
+PFC_602,GSM1424381,Huntington's disease,male,50,-6.144215,male,False
+PFC_601,GSM1424380,Huntington's disease,female,66,-6.103296,male,True
+PFC_600,GSM1424379,Huntington's disease,male,65,-5.9262075,male,False
+PFC_599,GSM1424378,Huntington's disease,male,74,-6.1446743,male,False
+PFC_598,GSM1424377,Huntington's disease,male,57,-6.1412177,male,False
+PFC_597,GSM1424376,Huntington's disease,female,56,2.7323887,female,False
+PFC_596,GSM1424375,Huntington's disease,female,58,1.4870206,female,False
+PFC_595,GSM1424374,Huntington's disease,female,18,1.478416,female,False
+PFC_594,GSM1424373,Huntington's disease,male,39,-6.2852774,male,False
+PFC_593,GSM1424372,Huntington's disease,female,45,1.6356922,female,False
+PFC_592,GSM1424371,Huntington's disease,male,59,-6.3584857,male,False
+PFC_591,GSM1424370,Huntington's disease,male,39,-6.363381,male,False
+PFC_590,GSM1424369,Huntington's disease,male,66,-6.130033,male,False
+PFC_589,GSM1424368,Huntington's disease,male,53,-6.055898,male,False
+PFC_588,GSM1424367,Huntington's disease,male,67,-5.8449745,male,False
+PFC_587,GSM1424366,Huntington's disease,male,70,-5.72679,male,False
+PFC_586,GSM1424365,Huntington's disease,female,57,1.7069395,female,False
+PFC_585,GSM1424364,Huntington's disease,male,56,-5.9310737,male,False
+PFC_584,GSM1424363,Huntington's disease,male,50,-6.0242677,male,False
+PFC_583,GSM1424362,Huntington's disease,female,51,2.5458517,female,False
+PFC_582,GSM1424361,Huntington's disease,male,55,-5.5647807,male,False
+PFC_581,GSM1424360,Huntington's disease,male,54,-6.5266457,male,False
+PFC_580,GSM1424359,Huntington's disease,female,77,3.42244,female,False
+PFC_579,GSM1424358,Huntington's disease,female,60,2.7065737,female,False
+PFC_578,GSM1424357,Huntington's disease,male,75,-5.6415815,male,False
+PFC_577,GSM1424356,Huntington's disease,male,64,-5.895661,male,False
+PFC_576,GSM1424355,Huntington's disease,male,66,-5.7368693,male,False
+PFC_575,GSM1424354,Huntington's disease,male,51,-5.999041,male,False
+PFC_574,GSM1424353,Huntington's disease,female,47,2.622216,female,False
+PFC_573,GSM1424352,Huntington's disease,male,44,-6.039379,male,False
+PFC_572,GSM1424351,Huntington's disease,female,35,2.326417,female,False
+PFC_571,GSM1424350,Huntington's disease,male,53,-5.543845,male,False
+PFC_570,GSM1424349,Huntington's disease,male,50,-5.7359505,male,False
+PFC_569,GSM1424348,Huntington's disease,male,62,-5.928984,male,False
+PFC_568,GSM1424347,Huntington's disease,male,45,-5.7072406,male,False
+PFC_567,GSM1424346,Huntington's disease,male,49,-5.909236,male,False
+PFC_566,GSM1424345,Huntington's disease,male,54,-6.578763,male,False
+PFC_565,GSM1424344,Huntington's disease,female,41,1.5762585,female,False
+PFC_564,GSM1424343,Huntington's disease,male,39,-6.3690453,male,False
+PFC_563,GSM1424342,Huntington's disease,male,81,-6.352613,male,False
+PFC_562,GSM1424341,Huntington's disease,male,73,-6.2153788,male,False
+PFC_561,GSM1424340,Huntington's disease,female,53,-6.5337186,male,True
+PFC_560,GSM1424339,Huntington's disease,male,84,-5.797626,male,False
+PFC_559,GSM1424338,Huntington's disease,male,80,-5.705184,male,False
+PFC_558,GSM1424337,Huntington's disease,male,42,-6.34477,male,False
+PFC_557,GSM1424336,Huntington's disease,female,68,2.9641676,female,False
+PFC_556,GSM1424335,Huntington's disease,female,53,2.4590976,female,False
+PFC_555,GSM1424334,Huntington's disease,female,57,2.9585524,female,False
+PFC_554,GSM1424333,Huntington's disease,male,60,-5.868029,male,False
+PFC_553,GSM1424332,Huntington's disease,female,85,3.245464,female,False
+PFC_552,GSM1424331,Huntington's disease,male,82,-6.0658717,male,False
+PFC_551,GSM1424330,Huntington's disease,female,75,3.1484537,female,False
+PFC_550,GSM1424329,Huntington's disease,female,73,2.4740055,female,False
+PFC_549,GSM1424328,Huntington's disease,male,49,-6.575878,male,False
+PFC_548,GSM1424327,Huntington's disease,female,82,2.7063868,female,False
+PFC_547,GSM1424326,Huntington's disease,female,83,3.1551962,female,False
+PFC_546,GSM1424325,Huntington's disease,male,77,-6.4181633,male,False
+PFC_545,GSM1424324,Huntington's disease,male,51,-6.301795,male,False
+PFC_544,GSM1424323,Huntington's disease,female,42,3.1078966,female,False
+PFC_543,GSM1424322,Huntington's disease,male,42,-6.1010737,male,False
+PFC_542,GSM1424321,Huntington's disease,female,53,2.8572311,female,False
+PFC_541,GSM1424320,Huntington's disease,female,47,2.210003,female,False
+PFC_540,GSM1424319,Huntington's disease,female,31,2.1428604,female,False
+PFC_539,GSM1424318,Huntington's disease,male,61,-5.8845396,male,False
+PFC_538,GSM1424317,Huntington's disease,male,64,-5.959427,male,False
+PFC_537,GSM1424316,Huntington's disease,male,64,-5.9350877,male,False
+PFC_536,GSM1424315,Huntington's disease,male,39,-5.991562,male,False
+PFC_535,GSM1424314,Huntington's disease,female,72,1.8284265,female,False
+PFC_534,GSM1424313,Huntington's disease,female,65,2.1201077,female,False
+PFC_533,GSM1424312,Huntington's disease,female,72,1.8495687,female,False
+PFC_532,GSM1424311,Huntington's disease,male,67,-5.52067,male,False
+PFC_531,GSM1424310,Huntington's disease,male,63,-6.2803664,male,False
+PFC_530,GSM1424309,Huntington's disease,male,48,-6.076159,male,False
+PFC_529,GSM1424308,Huntington's disease,female,37,1.7370021,female,False
+PFC_528,GSM1424307,Huntington's disease,female,67,3.0479856,female,False
+PFC_527,GSM1424306,Huntington's disease,male,21,-6.2009845,male,False
+PFC_526,GSM1424305,Huntington's disease,female,69,2.745553,female,False
+PFC_525,GSM1424304,Huntington's disease,female,51,2.524944,female,False
+PFC_524,GSM1424303,Huntington's disease,male,53,-6.308718,male,False
+PFC_523,GSM1424302,Huntington's disease,female,44,1.6948239,female,False
+PFC_522,GSM1424301,Huntington's disease,male,51,-6.1153245,male,False
+PFC_521,GSM1424300,Huntington's disease,female,37,2.0249054,female,False
+PFC_520,GSM1424299,Huntington's disease,female,39,2.179673,female,False
+PFC_519,GSM1424298,Huntington's disease,female,59,2.252203,female,False
+PFC_518,GSM1424297,Huntington's disease,male,64,-5.903059,male,False
+PFC_517,GSM1424296,Huntington's disease,female,56,2.6029155,female,False
+PFC_516,GSM1424295,Huntington's disease,female,83,2.6370492,female,False
+PFC_515,GSM1424294,Huntington's disease,male,62,-6.706476,male,False
+PFC_514,GSM1424293,Huntington's disease,female,47,2.0081515,female,False
+PFC_513,GSM1424292,Huntington's disease,male,49,-6.060655,male,False
+PFC_512,GSM1424291,Huntington's disease,female,42,2.1581318,female,False
+PFC_511,GSM1424290,Huntington's disease,female,56,2.1889787,female,False
+PFC_510,GSM1424289,Huntington's disease,female,42,2.6850448,female,False
+PFC_509,GSM1424288,Huntington's disease,female,46,2.4273744,female,False
+PFC_508,GSM1424287,Huntington's disease,male,74,-6.041835,male,False
+PFC_507,GSM1424286,Huntington's disease,male,52,-5.6057115,male,False
+PFC_506,GSM1424285,Huntington's disease,male,60,-6.1508255,male,False
+PFC_505,GSM1424284,Huntington's disease,male,58,-6.2460065,male,False
+PFC_504,GSM1424283,Huntington's disease,male,74,-5.8013906,male,False
+PFC_503,GSM1424282,Huntington's disease,male,53,-5.8530464,male,False
+PFC_502,GSM1424281,Huntington's disease,male,45,-6.012202,male,False
+PFC_501,GSM1424280,Huntington's disease,female,24,2.8651104,female,False
+PFC_500,GSM1424279,Huntington's disease,male,59,-6.08876,male,False
+PFC_499,GSM1424278,Huntington's disease,male,62,-6.0507126,male,False
+PFC_498,GSM1424277,Huntington's disease,female,59,2.9874294,female,False
+PFC_497,GSM1424276,Huntington's disease,male,52,-6.106129,male,False
+PFC_496,GSM1424275,Huntington's disease,female,48,2.6897013,female,False
+PFC_495,GSM1424274,Huntington's disease,male,49,-6.2448797,male,False
+PFC_494,GSM1424273,Huntington's disease,female,49,2.3024497,female,False
+PFC_493,GSM1424272,Huntington's disease,male,48,-5.8876004,male,False
+PFC_492,GSM1424271,Huntington's disease,male,68,-6.219285,male,False
+PFC_491,GSM1424270,Huntington's disease,female,42,2.131291,female,False
+PFC_490,GSM1424269,Huntington's disease,female,74,2.8387718,female,False
+PFC_489,GSM1424268,Huntington's disease,female,68,2.2869523,female,False
+PFC_488,GSM1424267,Huntington's disease,male,74,-6.3866043,male,False
+PFC_487,GSM1424266,Huntington's disease,male,70,-6.239911,male,False
+PFC_486,GSM1424265,Huntington's disease,female,60,2.5751128,female,False
+PFC_485,GSM1424264,Huntington's disease,male,73,-5.655338,male,False
+PFC_484,GSM1424263,Huntington's disease,female,32,2.6753497,female,False
+PFC_483,GSM1424262,Huntington's disease,female,35,2.8223155,female,False
+PFC_482,GSM1424261,Huntington's disease,male,55,-6.2597947,male,False
+PFC_481,GSM1424260,Huntington's disease,male,73,-6.15958,male,False
+PFC_480,GSM1424259,Huntington's disease,female,21,2.4046257,female,False
+PFC_479,GSM1424258,Huntington's disease,female,47,2.08555,female,False
+PFC_478,GSM1424257,Huntington's disease,male,63,-5.8424673,male,False
+PFC_477,GSM1424256,Huntington's disease,female,48,3.3489542,female,False
+PFC_476,GSM1424255,Huntington's disease,female,59,2.3506162,female,False
+PFC_475,GSM1424254,Huntington's disease,male,75,-6.0844116,male,False
+PFC_474,GSM1424253,Huntington's disease,female,40,1.8993685,female,False
+PFC_473,GSM1424252,Huntington's disease,female,78,3.5580082,female,False
+PFC_472,GSM1424251,Huntington's disease,male,35,-6.7565546,male,False
+PFC_471,GSM1424250,Huntington's disease,female,81,2.8018708,female,False
+PFC_470,GSM1424249,Huntington's disease,male,63,-6.5090637,male,False
+PFC_469,GSM1424248,Huntington's disease,female,31,2.5534801,female,False
+PFC_468,GSM1424247,Huntington's disease,female,60,2.642694,female,False
+PFC_467,GSM1424246,non-demented,male,62,-5.982484,male,False
+PFC_466,GSM1424245,non-demented,female,55,2.163644,female,False
+PFC_465,GSM1424244,non-demented,female,60,2.5008724,female,False
+PFC_464,GSM1424243,non-demented,male,61,-5.8406153,male,False
+PFC_463,GSM1424242,non-demented,male,52,-6.3555255,male,False
+PFC_462,GSM1424241,non-demented,male,65,-6.05131,male,False
+PFC_461,GSM1424240,non-demented,male,55,-5.8569646,male,False
+PFC_460,GSM1424239,non-demented,male,59,-5.702702,male,False
+PFC_459,GSM1424238,non-demented,male,72,-5.201018,male,False
+PFC_458,GSM1424237,non-demented,male,50,-5.372242,male,False
+PFC_457,GSM1424236,non-demented,female,59,1.6617329,female,False
+PFC_456,GSM1424235,non-demented,male,64,-5.883449,male,False
+PFC_455,GSM1424234,non-demented,male,50,-6.066017,male,False
+PFC_454,GSM1424233,non-demented,male,54,-5.9263654,male,False
+PFC_453,GSM1424232,non-demented,male,66,-5.862873,male,False
+PFC_452,GSM1424231,non-demented,male,80,-5.82515,male,False
+PFC_451,GSM1424230,non-demented,male,56,-5.84826,male,False
+PFC_450,GSM1424229,non-demented,male,53,-5.3364267,male,False
+PFC_449,GSM1424228,non-demented,male,53,-6.25413,male,False
+PFC_448,GSM1424227,non-demented,male,60,-5.8350086,male,False
+PFC_447,GSM1424226,non-demented,male,60,-6.032171,male,False
+PFC_446,GSM1424225,non-demented,male,66,-5.9021316,male,False
+PFC_445,GSM1424224,non-demented,male,50,-5.9736247,male,False
+PFC_444,GSM1424223,non-demented,male,59,-6.2766647,male,False
+PFC_443,GSM1424222,non-demented,male,76,-6.0220437,male,False
+PFC_442,GSM1424221,non-demented,female,55,1.6377635,female,False
+PFC_441,GSM1424220,non-demented,male,68,-6.0322976,male,False
+PFC_440,GSM1424219,non-demented,male,79,-5.516461,male,False
+PFC_439,GSM1424218,non-demented,female,73,2.5571554,female,False
+PFC_438,GSM1424217,non-demented,male,75,-5.7323256,male,False
+PFC_437,GSM1424216,non-demented,female,68,2.0721357,female,False
+PFC_436,GSM1424215,non-demented,male,73,-6.021297,male,False
+PFC_435,GSM1424214,non-demented,female,71,2.2886047,female,False
+PFC_434,GSM1424213,non-demented,male,82,-6.0888395,male,False
+PFC_433,GSM1424212,non-demented,male,51,-5.957647,male,False
+PFC_432,GSM1424211,non-demented,male,86,-5.7780013,male,False
+PFC_431,GSM1424210,non-demented,male,66,-5.804595,male,False
+PFC_430,GSM1424209,non-demented,male,64,-6.2905874,male,False
+PFC_429,GSM1424208,non-demented,male,65,-5.761424,male,False
+PFC_428,GSM1424207,non-demented,male,55,-6.323182,male,False
+PFC_427,GSM1424206,non-demented,male,77,-6.242615,male,False
+PFC_426,GSM1424205,non-demented,male,63,-6.606847,male,False
+PFC_425,GSM1424204,non-demented,male,62,-6.3127856,male,False
+PFC_424,GSM1424203,non-demented,male,61,-5.8727365,male,False
+PFC_423,GSM1424202,non-demented,male,74,-5.542541,male,False
+PFC_422,GSM1424201,non-demented,female,78,2.2996247,female,False
+PFC_421,GSM1424200,non-demented,male,65,-6.3382173,male,False
+PFC_420,GSM1424199,non-demented,male,56,-6.5349917,male,False
+PFC_419,GSM1424198,non-demented,male,74,-6.294673,male,False
+PFC_418,GSM1424197,non-demented,male,63,-6.6995783,male,False
+PFC_417,GSM1424196,non-demented,female,69,2.5773182,female,False
+PFC_416,GSM1424195,non-demented,male,68,-6.3160567,male,False
+PFC_415,GSM1424194,non-demented,male,76,-6.7757063,male,False
+PFC_414,GSM1424193,non-demented,male,63,-6.463644,male,False
+PFC_413,GSM1424192,non-demented,male,72,-6.471676,male,False
+PFC_412,GSM1424191,non-demented,male,60,-5.0897274,male,False
+PFC_411,GSM1424190,non-demented,female,65,2.8111324,female,False
+PFC_410,GSM1424189,non-demented,male,61,-6.5476866,male,False
+PFC_409,GSM1424188,non-demented,male,55,-5.6573577,male,False
+PFC_408,GSM1424187,non-demented,male,69,-6.312539,male,False
+PFC_407,GSM1424186,non-demented,male,55,-5.718047,male,False
+PFC_406,GSM1424185,non-demented,male,80,-6.0117335,male,False
+PFC_405,GSM1424184,non-demented,male,66,-6.085114,male,False
+PFC_404,GSM1424183,non-demented,male,57,-5.900395,male,False
+PFC_403,GSM1424182,non-demented,male,53,-5.9383707,male,False
+PFC_402,GSM1424181,non-demented,female,58,2.160555,female,False
+PFC_401,GSM1424180,non-demented,male,55,-5.9278917,male,False
+PFC_400,GSM1424179,non-demented,male,57,-5.506624,male,False
+PFC_399,GSM1424178,non-demented,male,62,-6.2088194,male,False
+PFC_398,GSM1424177,non-demented,male,61,-6.020164,male,False
+PFC_397,GSM1424176,non-demented,male,60,-5.9622717,male,False
+PFC_396,GSM1424175,non-demented,male,69,-5.0067925,male,False
+PFC_395,GSM1424174,non-demented,male,71,2.2091508,female,True
+PFC_394,GSM1424173,non-demented,female,78,2.6783311,female,False
+PFC_393,GSM1424172,non-demented,female,69,2.4407253,female,False
+PFC_392,GSM1424171,non-demented,male,55,-6.264527,male,False
+PFC_391,GSM1424170,non-demented,female,71,1.8351104,female,False
+PFC_390,GSM1424169,non-demented,male,74,-6.54978,male,False
+PFC_389,GSM1424168,non-demented,male,58,-6.542302,male,False
+PFC_388,GSM1424167,non-demented,male,73,-6.659155,male,False
+PFC_387,GSM1424166,non-demented,female,63,3.4829507,female,False
+PFC_386,GSM1424165,non-demented,male,66,-6.4011827,male,False
+PFC_385,GSM1424164,non-demented,female,59,2.2810552,female,False
+PFC_384,GSM1424163,non-demented,male,70,-6.4506035,male,False
+PFC_383,GSM1424162,non-demented,male,58,-5.9984107,male,False
+PFC_382,GSM1424161,non-demented,female,72,3.0314689,female,False
+PFC_381,GSM1424160,non-demented,male,57,-6.279457,male,False
+PFC_380,GSM1424159,non-demented,male,57,-6.0164785,male,False
+PFC_379,GSM1424158,non-demented,male,53,-5.3592567,male,False
+PFC_378,GSM1424157,non-demented,male,60,-5.2819185,male,False
+PFC_377,GSM1424156,non-demented,male,60,-6.1541924,male,False
+PFC_376,GSM1424155,non-demented,male,50,-6.2073364,male,False
+PFC_375,GSM1424154,non-demented,male,106,-6.2496424,male,False
+PFC_374,GSM1424153,non-demented,male,56,-5.652395,male,False
+PFC_373,GSM1424152,non-demented,female,65,2.5875554,female,False
+PFC_372,GSM1424151,non-demented,male,53,-6.40871,male,False
+PFC_371,GSM1424150,non-demented,male,77,-6.124366,male,False
+PFC_370,GSM1424149,non-demented,male,71,-6.182391,male,False
+PFC_369,GSM1424148,non-demented,male,61,-5.9112625,male,False
+PFC_368,GSM1424147,non-demented,female,53,2.19002,female,False
+PFC_367,GSM1424146,non-demented,male,75,-6.2169003,male,False
+PFC_366,GSM1424145,non-demented,male,68,-6.0591993,male,False
+PFC_365,GSM1424144,non-demented,male,75,-5.768917,male,False
+PFC_364,GSM1424143,non-demented,male,54,-5.634856,male,False
+PFC_363,GSM1424142,non-demented,female,65,2.100882,female,False
+PFC_362,GSM1424141,non-demented,male,62,-5.786469,male,False
+PFC_361,GSM1424140,non-demented,male,51,-6.0980234,male,False
+PFC_360,GSM1424139,non-demented,male,61,-5.9965324,male,False
+PFC_359,GSM1424138,non-demented,female,51,3.1785598,female,False
+PFC_358,GSM1424137,non-demented,male,55,-6.079617,male,False
+PFC_357,GSM1424136,non-demented,female,75,2.56072,female,False
+PFC_356,GSM1424135,non-demented,male,65,-6.253556,male,False
+PFC_355,GSM1424134,non-demented,male,56,-6.214558,male,False
+PFC_354,GSM1424133,non-demented,male,55,-6.525858,male,False
+PFC_353,GSM1424132,non-demented,male,70,-6.1953115,male,False
+PFC_352,GSM1424131,non-demented,female,66,2.8683147,female,False
+PFC_351,GSM1424130,non-demented,male,74,-6.34745,male,False
+PFC_350,GSM1424129,non-demented,male,72,-5.9630375,male,False
+PFC_349,GSM1424128,non-demented,male,52,-6.9105988,male,False
+PFC_348,GSM1424127,non-demented,female,60,2.6857657,female,False
+PFC_347,GSM1424126,non-demented,male,53,-6.6153097,male,False
+PFC_346,GSM1424125,non-demented,male,72,-6.4655647,male,False
+PFC_345,GSM1424124,non-demented,male,22,-6.2117314,male,False
+PFC_344,GSM1424123,non-demented,male,51,-6.302501,male,False
+PFC_343,GSM1424122,non-demented,male,64,-6.51737,male,False
+PFC_342,GSM1424121,non-demented,female,69,2.6173134,female,False
+PFC_341,GSM1424120,non-demented,male,58,-5.6947594,male,False
+PFC_340,GSM1424119,non-demented,female,74,2.9015884,female,False
+PFC_339,GSM1424118,non-demented,male,68,-6.47669,male,False
+PFC_338,GSM1424117,non-demented,male,51,-6.7999864,male,False
+PFC_337,GSM1424116,non-demented,male,53,-6.9605627,male,False
+PFC_336,GSM1424115,non-demented,male,73,-6.080426,male,False
+PFC_335,GSM1424114,non-demented,male,72,-6.134851,male,False
+PFC_334,GSM1424113,non-demented,female,74,3.73046,female,False
+PFC_333,GSM1424112,non-demented,male,61,-5.9430246,male,False
+PFC_332,GSM1424111,non-demented,male,60,-6.1983566,male,False
+PFC_331,GSM1424110,non-demented,male,68,-6.3008766,male,False
+PFC_330,GSM1424109,non-demented,female,75,3.7862263,female,False
+PFC_329,GSM1424108,non-demented,male,57,-6.5740037,male,False
+PFC_328,GSM1424107,non-demented,female,58,2.3458476,female,False
+PFC_327,GSM1424106,non-demented,male,66,-6.896214,male,False
+PFC_326,GSM1424105,non-demented,male,54,-5.8326674,male,False
+PFC_325,GSM1424104,non-demented,male,67,-6.122401,male,False
+PFC_324,GSM1424103,non-demented,male,52,-6.556377,male,False
+PFC_323,GSM1424102,non-demented,male,58,-6.545475,male,False
+PFC_322,GSM1424101,non-demented,female,58,2.6863103,female,False
+PFC_321,GSM1424100,non-demented,male,82,-6.3259516,male,False
+PFC_320,GSM1424099,non-demented,female,60,3.0039282,female,False
+PFC_319,GSM1424098,non-demented,male,67,-6.5258393,male,False
+PFC_318,GSM1424097,non-demented,male,58,-6.647223,male,False
+PFC_317,GSM1424096,non-demented,male,58,-6.133156,male,False
+PFC_316,GSM1424095,non-demented,female,62,2.5538125,female,False
+PFC_315,GSM1424094,non-demented,male,53,-6.1056886,male,False
+PFC_314,GSM1424093,non-demented,male,59,-6.2654862,male,False
+PFC_313,GSM1424092,non-demented,female,95,2.9168935,female,False
+PFC_312,GSM1424091,non-demented,male,64,-6.755945,male,False
+PFC_311,GSM1424090,non-demented,female,56,2.5406432,female,False
+PFC_310,GSM1424089,Alzheimer's disease,male,72,-6.6298246,male,False
+PFC_309,GSM1424088,Alzheimer's disease,male,91,-6.166078,male,False
+PFC_308,GSM1424087,Alzheimer's disease,female,90,3.030838,female,False
+PFC_307,GSM1424086,Alzheimer's disease,female,93,2.7747061,female,False
+PFC_306,GSM1424085,Alzheimer's disease,male,79,-6.304168,male,False
+PFC_305,GSM1424084,Alzheimer's disease,female,89,3.2404299,female,False
+PFC_304,GSM1424083,Alzheimer's disease,female,80,2.7061906,female,False
+PFC_303,GSM1424082,Alzheimer's disease,male,72,-6.2039695,male,False
+PFC_302,GSM1424081,Alzheimer's disease,male,87,-6.2062535,male,False
+PFC_301,GSM1424080,Alzheimer's disease,male,53,-6.454382,male,False
+PFC_300,GSM1424079,Alzheimer's disease,male,76,-6.507562,male,False
+PFC_299,GSM1424078,Alzheimer's disease,female,79,2.2290354,female,False
+PFC_298,GSM1424077,Alzheimer's disease,female,83,2.829125,female,False
+PFC_297,GSM1424076,Alzheimer's disease,female,94,3.5910196,female,False
+PFC_296,GSM1424075,Alzheimer's disease,male,78,-6.640337,male,False
+PFC_295,GSM1424074,Alzheimer's disease,male,70,-6.607724,male,False
+PFC_294,GSM1424073,Alzheimer's disease,male,65,-6.117462,male,False
+PFC_293,GSM1424072,Alzheimer's disease,male,71,-6.483805,male,False
+PFC_292,GSM1424071,Alzheimer's disease,male,71,-6.239365,male,False
+PFC_291,GSM1424070,Alzheimer's disease,male,66,-6.444267,male,False
+PFC_290,GSM1424069,Alzheimer's disease,male,89,-6.2559342,male,False
+PFC_289,GSM1424068,Alzheimer's disease,female,85,2.6549983,female,False
+PFC_288,GSM1424067,Alzheimer's disease,female,83,2.9723692,female,False
+PFC_287,GSM1424066,Alzheimer's disease,male,79,-4.855105,male,False
+PFC_286,GSM1424065,Alzheimer's disease,male,84,-6.415383,male,False
+PFC_285,GSM1424064,Alzheimer's disease,male,78,2.1028712,female,True
+PFC_284,GSM1424063,Alzheimer's disease,male,98,-5.890971,male,False
+PFC_283,GSM1424062,Alzheimer's disease,female,86,2.24379,female,False
+PFC_282,GSM1424061,Alzheimer's disease,female,80,2.6855452,female,False
+PFC_281,GSM1424060,Alzheimer's disease,female,92,2.8536794,female,False
+PFC_280,GSM1424059,Alzheimer's disease,female,87,1.974208,female,False
+PFC_279,GSM1424058,Alzheimer's disease,female,76,3.0553815,female,False
+PFC_278,GSM1424057,Alzheimer's disease,female,72,2.2505164,female,False
+PFC_277,GSM1424056,Alzheimer's disease,male,78,-6.011178,male,False
+PFC_276,GSM1424055,Alzheimer's disease,male,72,-5.665615,male,False
+PFC_275,GSM1424054,Alzheimer's disease,female,88,2.0153306,female,False
+PFC_274,GSM1424053,Alzheimer's disease,male,69,-6.415938,male,False
+PFC_273,GSM1424052,Alzheimer's disease,male,73,-5.1624064,male,False
+PFC_272,GSM1424051,Alzheimer's disease,female,79,1.4692092,female,False
+PFC_271,GSM1424050,Alzheimer's disease,female,79,2.7117405,female,False
+PFC_270,GSM1424049,Alzheimer's disease,male,75,-5.260774,male,False
+PFC_269,GSM1424048,Alzheimer's disease,female,80,1.9126098,female,False
+PFC_268,GSM1424047,Alzheimer's disease,female,73,1.6481024,female,False
+PFC_267,GSM1424046,Alzheimer's disease,male,72,-5.4017124,male,False
+PFC_266,GSM1424045,Alzheimer's disease,male,82,-5.769105,male,False
+PFC_265,GSM1424044,Alzheimer's disease,female,59,2.1244638,female,False
+PFC_264,GSM1424043,Alzheimer's disease,female,90,2.1559768,female,False
+PFC_263,GSM1424042,Alzheimer's disease,male,80,-5.437058,male,False
+PFC_262,GSM1424041,Alzheimer's disease,male,87,-5.6379514,male,False
+PFC_261,GSM1424040,Alzheimer's disease,male,78,-5.731809,male,False
+PFC_260,GSM1424039,Alzheimer's disease,male,82,2.4129515,female,True
+PFC_259,GSM1424038,Alzheimer's disease,male,78,-5.0804596,male,False
+PFC_258,GSM1424037,Alzheimer's disease,male,80,-5.3521485,male,False
+PFC_257,GSM1424036,Alzheimer's disease,female,86,2.1751738,female,False
+PFC_256,GSM1424035,Alzheimer's disease,female,79,1.9939069,female,False
+PFC_255,GSM1424034,Alzheimer's disease,female,60,2.3146694,female,False
+PFC_254,GSM1424033,Alzheimer's disease,female,86,2.8750348,female,False
+PFC_253,GSM1424032,Alzheimer's disease,female,84,2.663912,female,False
+PFC_252,GSM1424031,Alzheimer's disease,female,84,2.2236679,female,False
+PFC_251,GSM1424030,Alzheimer's disease,male,72,-5.678408,male,False
+PFC_250,GSM1424029,Alzheimer's disease,male,64,-5.9868655,male,False
+PFC_249,GSM1424028,Alzheimer's disease,female,90,2.3714721,female,False
+PFC_248,GSM1424027,Alzheimer's disease,female,91,2.0497699,female,False
+PFC_247,GSM1424026,Alzheimer's disease,female,91,2.5690863,female,False
+PFC_246,GSM1424025,Alzheimer's disease,female,79,2.3420403,female,False
+PFC_245,GSM1424024,Alzheimer's disease,male,85,-6.1530557,male,False
+PFC_244,GSM1424023,Alzheimer's disease,female,69,2.2825189,female,False
+PFC_243,GSM1424022,Alzheimer's disease,male,75,-6.020811,male,False
+PFC_242,GSM1424021,Alzheimer's disease,male,90,-5.6114554,male,False
+PFC_241,GSM1424020,Alzheimer's disease,male,87,-5.519969,male,False
+PFC_240,GSM1424019,Alzheimer's disease,female,86,2.4607606,female,False
+PFC_239,GSM1424018,Alzheimer's disease,female,91,2.101183,female,False
+PFC_238,GSM1424017,Alzheimer's disease,male,92,-5.617385,male,False
+PFC_237,GSM1424016,Alzheimer's disease,female,80,1.1539941,female,False
+PFC_236,GSM1424015,Alzheimer's disease,female,73,1.9506626,female,False
+PFC_235,GSM1424014,Alzheimer's disease,male,87,-5.9972796,male,False
+PFC_234,GSM1424013,Alzheimer's disease,female,88,1.6858199,female,False
+PFC_233,GSM1424012,Alzheimer's disease,male,72,-6.066742,male,False
+PFC_232,GSM1424011,Alzheimer's disease,female,94,2.5696208,female,False
+PFC_231,GSM1424010,Alzheimer's disease,male,72,-5.970533,male,False
+PFC_230,GSM1424009,Alzheimer's disease,male,73,-6.23357,male,False
+PFC_229,GSM1424008,Alzheimer's disease,female,88,2.2029152,female,False
+PFC_228,GSM1424007,Alzheimer's disease,female,92,1.7810897,female,False
+PFC_227,GSM1424006,Alzheimer's disease,female,80,2.2739868,female,False
+PFC_226,GSM1424005,Alzheimer's disease,female,87,2.4283826,female,False
+PFC_225,GSM1424004,Alzheimer's disease,female,83,2.4253755,female,False
+PFC_224,GSM1424003,Alzheimer's disease,male,78,-5.761746,male,False
+PFC_223,GSM1424002,Alzheimer's disease,female,85,2.2598343,female,False
+PFC_222,GSM1424001,Alzheimer's disease,female,87,2.144036,female,False
+PFC_221,GSM1424000,Alzheimer's disease,male,87,-5.4648976,male,False
+PFC_220,GSM1423999,Alzheimer's disease,female,81,2.1865761,female,False
+PFC_219,GSM1423998,Alzheimer's disease,female,77,1.9953632,female,False
+PFC_218,GSM1423997,Alzheimer's disease,female,83,1.1590414,female,False
+PFC_217,GSM1423996,Alzheimer's disease,female,81,2.298837,female,False
+PFC_216,GSM1423995,Alzheimer's disease,female,83,2.2784066,female,False
+PFC_215,GSM1423994,Alzheimer's disease,male,80,-5.645668,male,False
+PFC_214,GSM1423993,Alzheimer's disease,male,84,-5.7881403,male,False
+PFC_213,GSM1423992,Alzheimer's disease,female,88,2.3929932,female,False
+PFC_212,GSM1423991,Alzheimer's disease,female,87,1.9781294,female,False
+PFC_211,GSM1423990,Alzheimer's disease,female,77,2.3830385,female,False
+PFC_210,GSM1423989,Alzheimer's disease,female,78,2.186439,female,False
+PFC_209,GSM1423988,Alzheimer's disease,male,88,-5.762733,male,False
+PFC_208,GSM1423987,Alzheimer's disease,female,93,2.1407568,female,False
+PFC_207,GSM1423986,Alzheimer's disease,male,77,-6.1417193,male,False
+PFC_206,GSM1423985,Alzheimer's disease,male,80,-5.0732546,male,False
+PFC_205,GSM1423984,Alzheimer's disease,female,84,1.9658147,female,False
+PFC_204,GSM1423983,Alzheimer's disease,female,84,2.1085722,female,False
+PFC_203,GSM1423982,Alzheimer's disease,female,89,2.259462,female,False
+PFC_202,GSM1423981,Alzheimer's disease,female,88,2.4983833,female,False
+PFC_201,GSM1423980,Alzheimer's disease,female,78,2.1773174,female,False
+PFC_200,GSM1423979,Alzheimer's disease,female,84,2.3983402,female,False
+PFC_199,GSM1423978,Alzheimer's disease,male,84,-5.179907,male,False
+PFC_198,GSM1423977,Alzheimer's disease,female,97,2.19974,female,False
+PFC_197,GSM1423976,Alzheimer's disease,female,84,2.0293796,female,False
+PFC_196,GSM1423975,Alzheimer's disease,male,85,-5.6496615,male,False
+PFC_195,GSM1423974,Alzheimer's disease,female,66,2.815167,female,False
+PFC_194,GSM1423973,Alzheimer's disease,female,95,2.152225,female,False
+PFC_193,GSM1423972,Alzheimer's disease,female,88,2.2230055,female,False
+PFC_192,GSM1423971,Alzheimer's disease,female,91,2.7198176,female,False
+PFC_191,GSM1423970,Alzheimer's disease,male,79,-6.291499,male,False
+PFC_190,GSM1423969,Alzheimer's disease,female,80,1.6700964,female,False
+PFC_189,GSM1423968,Alzheimer's disease,male,69,-6.315485,male,False
+PFC_188,GSM1423967,Alzheimer's disease,male,93,-6.103382,male,False
+PFC_187,GSM1423966,Alzheimer's disease,male,98,-6.08762,male,False
+PFC_186,GSM1423965,Alzheimer's disease,female,63,3.0072489,female,False
+PFC_185,GSM1423964,Alzheimer's disease,female,72,2.2743254,female,False
+PFC_184,GSM1423963,Alzheimer's disease,female,90,2.2853386,female,False
+PFC_183,GSM1423962,Alzheimer's disease,female,70,2.2957883,female,False
+PFC_182,GSM1423961,Alzheimer's disease,female,78,2.4117749,female,False
+PFC_181,GSM1423960,Alzheimer's disease,female,76,2.1991405,female,False
+PFC_180,GSM1423959,Alzheimer's disease,female,89,2.519275,female,False
+PFC_179,GSM1423958,Alzheimer's disease,male,86,-6.012816,male,False
+PFC_178,GSM1423957,Alzheimer's disease,female,84,2.4923663,female,False
+PFC_177,GSM1423956,Alzheimer's disease,female,91,2.722291,female,False
+PFC_176,GSM1423955,Alzheimer's disease,male,89,-6.261748,male,False
+PFC_175,GSM1423954,Alzheimer's disease,female,69,1.900021,female,False
+PFC_174,GSM1423953,Alzheimer's disease,female,93,2.5249474,female,False
+PFC_173,GSM1423952,Alzheimer's disease,female,92,2.3782566,female,False
+PFC_172,GSM1423951,Alzheimer's disease,male,77,2.172629,female,True
+PFC_171,GSM1423950,Alzheimer's disease,male,77,-6.0825686,male,False
+PFC_170,GSM1423949,Alzheimer's disease,female,88,2.8959498,female,False
+PFC_169,GSM1423948,Alzheimer's disease,male,63,-6.5545654,male,False
+PFC_168,GSM1423947,Alzheimer's disease,male,82,-5.7783613,male,False
+PFC_167,GSM1423946,Alzheimer's disease,female,87,3.0955346,female,False
+PFC_166,GSM1423945,Alzheimer's disease,male,71,-5.733954,male,False
+PFC_165,GSM1423944,Alzheimer's disease,female,93,3.2666564,female,False
+PFC_164,GSM1423943,Alzheimer's disease,male,87,-6.3354993,male,False
+PFC_163,GSM1423942,Alzheimer's disease,male,92,-6.0125556,male,False
+PFC_162,GSM1423941,Alzheimer's disease,male,72,-6.091373,male,False
+PFC_161,GSM1423940,Alzheimer's disease,male,98,-5.8882713,male,False
+PFC_160,GSM1423939,Alzheimer's disease,male,76,-6.1803284,male,False
+PFC_159,GSM1423938,Alzheimer's disease,female,61,3.417283,female,False
+PFC_158,GSM1423937,Alzheimer's disease,female,65,2.6242528,female,False
+PFC_157,GSM1423936,Alzheimer's disease,female,84,2.8969917,female,False
+PFC_156,GSM1423935,Alzheimer's disease,male,73,-6.369607,male,False
+PFC_155,GSM1423934,Alzheimer's disease,male,86,-6.082809,male,False
+PFC_154,GSM1423933,Alzheimer's disease,female,82,3.2226963,female,False
+PFC_153,GSM1423932,Alzheimer's disease,male,67,-6.897758,male,False
+PFC_152,GSM1423931,Alzheimer's disease,female,62,3.9475112,female,False
+PFC_151,GSM1423930,Alzheimer's disease,male,76,-6.0805354,male,False
+PFC_150,GSM1423929,Alzheimer's disease,female,75,4.067989,female,False
+PFC_149,GSM1423928,Alzheimer's disease,female,75,4.2450347,female,False
+PFC_148,GSM1423927,Alzheimer's disease,female,87,3.373024,female,False
+PFC_147,GSM1423926,Alzheimer's disease,female,54,3.913362,female,False
+PFC_146,GSM1423925,Alzheimer's disease,male,75,-6.4904275,male,False
+PFC_145,GSM1423924,Alzheimer's disease,male,86,-5.5761356,male,False
+PFC_144,GSM1423923,Alzheimer's disease,male,82,-5.5646577,male,False
+PFC_143,GSM1423922,Alzheimer's disease,female,75,3.1067977,female,False
+PFC_142,GSM1423921,Alzheimer's disease,female,83,3.5601315,female,False
+PFC_141,GSM1423920,Alzheimer's disease,female,84,3.0270917,female,False
+PFC_140,GSM1423919,Alzheimer's disease,male,79,-6.3884196,male,False
+PFC_139,GSM1423918,Alzheimer's disease,female,73,3.9694984,female,False
+PFC_138,GSM1423917,Alzheimer's disease,female,54,4.2755437,female,False
+PFC_137,GSM1423916,Alzheimer's disease,male,73,-6.183728,male,False
+PFC_136,GSM1423915,Alzheimer's disease,female,86,3.0169992,female,False
+PFC_135,GSM1423914,Alzheimer's disease,female,74,3.1295094,female,False
+PFC_134,GSM1423913,Alzheimer's disease,female,89,3.41102,female,False
+PFC_133,GSM1423912,Alzheimer's disease,male,61,-5.962699,male,False
+PFC_132,GSM1423911,Alzheimer's disease,female,78,3.0630744,female,False
+PFC_131,GSM1423910,Alzheimer's disease,female,86,3.5949135,female,False
+PFC_130,GSM1423909,Alzheimer's disease,male,85,-6.185066,male,False
+PFC_129,GSM1423908,Alzheimer's disease,female,94,2.4567027,female,False
+PFC_128,GSM1423907,Alzheimer's disease,female,86,2.9512687,female,False
+PFC_127,GSM1423906,Alzheimer's disease,male,73,-5.810167,male,False
+PFC_126,GSM1423905,Alzheimer's disease,male,67,-6.1279616,male,False
+PFC_125,GSM1423904,Alzheimer's disease,male,86,-6.127967,male,False
+PFC_124,GSM1423903,Alzheimer's disease,female,80,3.479929,female,False
+PFC_123,GSM1423902,Alzheimer's disease,female,80,-5.500105,male,True
+PFC_122,GSM1423901,Alzheimer's disease,female,84,3.9416943,female,False
+PFC_121,GSM1423900,Alzheimer's disease,female,94,3.0692143,female,False
+PFC_120,GSM1423899,Alzheimer's disease,female,91,2.154469,female,False
+PFC_119,GSM1423898,Alzheimer's disease,female,88,3.1849604,female,False
+PFC_118,GSM1423897,Alzheimer's disease,male,80,-5.9238296,male,False
+PFC_117,GSM1423896,Alzheimer's disease,male,72,-6.1079006,male,False
+PFC_116,GSM1423895,Alzheimer's disease,male,82,-5.504184,male,False
+PFC_115,GSM1423894,Alzheimer's disease,female,95,3.9859052,female,False
+PFC_114,GSM1423893,Alzheimer's disease,female,87,3.678337,female,False
+PFC_113,GSM1423892,Alzheimer's disease,female,91,3.2665687,female,False
+PFC_112,GSM1423891,Alzheimer's disease,female,93,3.0006733,female,False
+PFC_111,GSM1423890,Alzheimer's disease,male,71,-5.8343253,male,False
+PFC_110,GSM1423889,Alzheimer's disease,male,73,-5.848916,male,False
+PFC_109,GSM1423888,Alzheimer's disease,male,78,-6.262491,male,False
+PFC_108,GSM1423887,Alzheimer's disease,male,87,-6.633225,male,False
+PFC_107,GSM1423886,Alzheimer's disease,female,84,3.4931955,female,False
+PFC_106,GSM1423885,Alzheimer's disease,male,77,-6.28015,male,False
+PFC_105,GSM1423884,Alzheimer's disease,male,73,-6.5456085,male,False
+PFC_104,GSM1423883,Alzheimer's disease,female,87,3.4405465,female,False
+PFC_103,GSM1423882,Alzheimer's disease,female,90,4.0359964,female,False
+PFC_102,GSM1423881,Alzheimer's disease,female,76,2.8012297,female,False
+PFC_101,GSM1423880,Alzheimer's disease,female,89,2.8827925,female,False
+PFC_100,GSM1423879,Alzheimer's disease,female,91,2.7170935,female,False
+PFC_99,GSM1423878,Alzheimer's disease,male,81,-5.7448583,male,False
+PFC_98,GSM1423877,Alzheimer's disease,male,89,-6.152708,male,False
+PFC_97,GSM1423876,Alzheimer's disease,male,88,-5.913654,male,False
+PFC_96,GSM1423875,Alzheimer's disease,male,85,,unscored,False
+PFC_95,GSM1423874,Alzheimer's disease,female,86,2.9946885,female,False
+PFC_94,GSM1423873,Alzheimer's disease,female,85,3.0917823,female,False
+PFC_93,GSM1423872,Alzheimer's disease,female,80,3.0599341,female,False
+PFC_92,GSM1423871,Alzheimer's disease,male,80,-5.249211,male,False
+PFC_91,GSM1423870,Alzheimer's disease,female,67,3.827304,female,False
+PFC_90,GSM1423869,Alzheimer's disease,female,82,3.6627097,female,False
+PFC_89,GSM1423868,Alzheimer's disease,male,70,-6.0652,male,False
+PFC_88,GSM1423867,Alzheimer's disease,male,64,-6.6417255,male,False
+PFC_87,GSM1423866,Alzheimer's disease,male,88,-6.006533,male,False
+PFC_86,GSM1423865,Alzheimer's disease,female,83,2.9187694,female,False
+PFC_85,GSM1423864,Alzheimer's disease,male,77,-6.4251366,male,False
+PFC_84,GSM1423863,Alzheimer's disease,female,80,3.3183608,female,False
+PFC_83,GSM1423862,Alzheimer's disease,female,86,2.8121395,female,False
+PFC_82,GSM1423861,Alzheimer's disease,male,71,-6.406077,male,False
+PFC_81,GSM1423860,Alzheimer's disease,male,86,-5.7885013,male,False
+PFC_80,GSM1423859,Alzheimer's disease,female,82,2.905157,female,False
+PFC_79,GSM1423858,Alzheimer's disease,female,98,3.3116164,female,False
+PFC_78,GSM1423857,Alzheimer's disease,male,73,-6.0328183,male,False
+PFC_77,GSM1423856,Alzheimer's disease,female,84,3.6207309,female,False
+PFC_76,GSM1423855,Alzheimer's disease,female,81,-6.707177,male,True
+PFC_75,GSM1423854,Alzheimer's disease,female,68,3.350362,female,False
+PFC_74,GSM1423853,Alzheimer's disease,female,85,3.1419497,female,False
+PFC_73,GSM1423852,Alzheimer's disease,female,81,2.9256277,female,False
+PFC_72,GSM1423851,Alzheimer's disease,female,92,3.3837838,female,False
+PFC_71,GSM1423850,Alzheimer's disease,male,80,-6.155799,male,False
+PFC_70,GSM1423849,Alzheimer's disease,female,83,2.9091535,female,False
+PFC_69,GSM1423848,Alzheimer's disease,male,82,-5.706604,male,False
+PFC_68,GSM1423847,Alzheimer's disease,male,75,-5.8552585,male,False
+PFC_67,GSM1423846,Alzheimer's disease,male,83,-6.336782,male,False
+PFC_66,GSM1423845,Alzheimer's disease,female,62,2.654811,female,False
+PFC_65,GSM1423844,Alzheimer's disease,male,83,-5.713375,male,False
+PFC_64,GSM1423843,Alzheimer's disease,male,73,-6.2202926,male,False
+PFC_63,GSM1423842,Alzheimer's disease,female,69,3.2262726,female,False
+PFC_62,GSM1423841,Alzheimer's disease,male,74,-6.467975,male,False
+PFC_61,GSM1423840,Alzheimer's disease,female,87,2.9438548,female,False
+PFC_60,GSM1423839,Alzheimer's disease,male,89,-6.271121,male,False
+PFC_59,GSM1423838,Alzheimer's disease,female,67,3.747036,female,False
+PFC_58,GSM1423837,Alzheimer's disease,male,85,-6.639542,male,False
+PFC_57,GSM1423836,Alzheimer's disease,male,78,-6.422414,male,False
+PFC_56,GSM1423835,Alzheimer's disease,male,77,-6.7459693,male,False
+PFC_55,GSM1423834,Alzheimer's disease,female,83,3.2897682,female,False
+PFC_54,GSM1423833,Alzheimer's disease,male,87,-6.111322,male,False
+PFC_53,GSM1423832,Alzheimer's disease,male,68,-6.366076,male,False
+PFC_52,GSM1423831,Alzheimer's disease,male,77,2.6264856,female,True
+PFC_51,GSM1423830,Alzheimer's disease,female,83,2.5920448,female,False
+PFC_50,GSM1423829,Alzheimer's disease,female,74,3.327612,female,False
+PFC_49,GSM1423828,Alzheimer's disease,male,92,-6.2971196,male,False
+PFC_48,GSM1423827,Alzheimer's disease,female,87,3.6380992,female,False
+PFC_47,GSM1423826,Alzheimer's disease,male,82,-6.019824,male,False
+PFC_46,GSM1423825,Alzheimer's disease,female,75,2.6100762,female,False
+PFC_45,GSM1423824,Alzheimer's disease,female,83,4.053012,female,False
+PFC_44,GSM1423823,Alzheimer's disease,female,84,3.2852187,female,False
+PFC_43,GSM1423822,Alzheimer's disease,female,76,2.8683279,female,False
+PFC_42,GSM1423821,Alzheimer's disease,female,92,3.7982733,female,False
+PFC_41,GSM1423820,Alzheimer's disease,female,90,2.6278005,female,False
+PFC_40,GSM1423819,Alzheimer's disease,female,67,2.9482207,female,False
+PFC_39,GSM1423818,Alzheimer's disease,female,85,3.10191,female,False
+PFC_38,GSM1423817,Alzheimer's disease,male,89,-6.007968,male,False
+PFC_37,GSM1423816,Alzheimer's disease,male,74,-5.985756,male,False
+PFC_36,GSM1423815,Alzheimer's disease,female,89,3.230167,female,False
+PFC_35,GSM1423814,Alzheimer's disease,female,79,2.4640584,female,False
+PFC_34,GSM1423813,Alzheimer's disease,male,85,-5.51361,male,False
+PFC_33,GSM1423812,Alzheimer's disease,male,79,-5.6115284,male,False
+PFC_32,GSM1423811,Alzheimer's disease,male,61,-5.3532867,male,False
+PFC_31,GSM1423810,Alzheimer's disease,male,77,-5.657505,male,False
+PFC_30,GSM1423809,Alzheimer's disease,male,55,-6.334351,male,False
+PFC_29,GSM1423808,Alzheimer's disease,female,66,3.1244516,female,False
+PFC_28,GSM1423807,Alzheimer's disease,male,65,-5.749742,male,False
+PFC_27,GSM1423806,Alzheimer's disease,female,84,2.7804549,female,False
+PFC_26,GSM1423805,Alzheimer's disease,female,76,2.9480586,female,False
+PFC_25,GSM1423804,Alzheimer's disease,female,75,2.741312,female,False
+PFC_24,GSM1423803,Alzheimer's disease,male,77,-5.950012,male,False
+PFC_23,GSM1423802,Alzheimer's disease,female,77,2.9478507,female,False
+PFC_22,GSM1423801,Alzheimer's disease,male,87,-5.4724474,male,False
+PFC_21,GSM1423800,Alzheimer's disease,female,91,3.1387348,female,False
+PFC_20,GSM1423799,Alzheimer's disease,female,77,2.7625856,female,False
+PFC_19,GSM1423798,Alzheimer's disease,male,79,-5.9315834,male,False
+PFC_18,GSM1423797,Alzheimer's disease,female,85,2.925346,female,False
+PFC_17,GSM1423796,Alzheimer's disease,male,81,-5.798183,male,False
+PFC_16,GSM1423795,Alzheimer's disease,male,89,-6.0370564,male,False
+PFC_15,GSM1423794,Alzheimer's disease,female,81,3.7979176,female,False
+PFC_14,GSM1423793,Alzheimer's disease,male,93,-6.7666955,male,False
+PFC_13,GSM1423792,Alzheimer's disease,female,61,3.950713,female,False
+PFC_12,GSM1423791,Alzheimer's disease,female,80,4.1151743,female,False
+PFC_11,GSM1423790,Alzheimer's disease,female,89,4.234645,female,False
+PFC_10,GSM1423789,Alzheimer's disease,female,64,2.7768393,female,False
+PFC_9,GSM1423788,Alzheimer's disease,male,72,-6.8839636,male,False
+PFC_8,GSM1423787,Alzheimer's disease,female,100,4.302567,female,False
+PFC_7,GSM1423786,Alzheimer's disease,female,77,3.3799453,female,False
+PFC_6,GSM1423785,Alzheimer's disease,female,95,3.7272754,female,False
+PFC_5,GSM1423784,Alzheimer's disease,female,90,3.650241,female,False
+PFC_4,GSM1423783,Alzheimer's disease,female,90,2.7554877,female,False
+PFC_3,GSM1423782,Alzheimer's disease,male,62,-6.566724,male,False
+PFC_2,GSM1423781,Alzheimer's disease,male,88,-6.252304,male,False
+PFC_1,GSM1423780,Alzheimer's disease,female,67,3.1367497,female,False
